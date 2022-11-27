@@ -6,3 +6,4 @@ test line
 789.
 new line
 New line 2
+new branch line
